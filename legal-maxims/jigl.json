@@ -1,0 +1,25 @@
+{
+  "subject": "JIGL",
+  "maxims": [
+    {
+      "latin": "Aequitas Sequitur Legem",
+      "meaning": "Equity follows the law."
+    },
+    {
+      "latin": "Audi Alteram Partem",
+      "meaning": "Hear the other side."
+    },
+    {
+      "latin": "Actus Non Facit Reum Nisi Mens Sit Rea",
+      "meaning": "The act alone does not make a person guilty unless accompanied by a guilty mind."
+    },
+    {
+      "latin": "Nemo Judex in Causa Sua",
+      "meaning": "No one should be a judge in his own cause."
+    },
+    {
+      "latin": "Volenti Non Fit Injuria",
+      "meaning": "To a willing person, no injury is done."
+    }
+  ]
+}
