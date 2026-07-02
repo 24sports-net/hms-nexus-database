@@ -1,0 +1,64 @@
+{
+  "drafts": [
+    {
+      "category": "Board Resolution",
+      "title": "Board Resolution for Opening Bank Account",
+      "subtitle": "Companies Act, 2013 - Section 179",
+      "image": "images/board-resolution-opening-bank-account.jpg"
+    },
+    {
+      "category": "Board Resolution",
+      "title": "Board Resolution for Appointment of Director",
+      "subtitle": "Companies Act, 2013 - Section 152",
+      "image": "images/board-resolution-appointment-director.jpg"
+    },
+    {
+      "category": "Board Resolution",
+      "title": "Board Resolution for Appointment of Managing Director",
+      "subtitle": "Companies Act, 2013 - Section 196",
+      "image": "images/board-resolution-appointment-managing-director.jpg"
+    },
+    {
+      "category": "Board Resolution",
+      "title": "Board Resolution for Change of Registered Office",
+      "subtitle": "Companies Act, 2013 - Section 12",
+      "image": "images/board-resolution-change-registered-office.jpg"
+    },
+    {
+      "category": "Notice",
+      "title": "Notice of Board Meeting",
+      "subtitle": "Companies Act, 2013 - Section 173",
+      "image": "images/notice-board-meeting.jpg"
+    },
+    {
+      "category": "Notice",
+      "title": "Notice of Extraordinary General Meeting",
+      "subtitle": "Companies Act, 2013 - Section 100",
+      "image": "images/notice-egm.jpg"
+    },
+    {
+      "category": "Minutes",
+      "title": "Minutes of Board Meeting",
+      "subtitle": "Companies Act, 2013 - Section 118",
+      "image": "images/minutes-board-meeting.jpg"
+    },
+    {
+      "category": "Minutes",
+      "title": "Minutes of Annual General Meeting",
+      "subtitle": "Companies Act, 2013 - Section 118",
+      "image": "images/minutes-agm.jpg"
+    },
+    {
+      "category": "Letter",
+      "title": "Letter of Appointment of Director",
+      "subtitle": "Companies Act, 2013",
+      "image": "images/appointment-letter-director.jpg"
+    },
+    {
+      "category": "Agreement",
+      "title": "Shareholders' Agreement",
+      "subtitle": "Model Draft",
+      "image": "images/shareholders-agreement.jpg"
+    }
+  ]
+}
