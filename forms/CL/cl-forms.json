@@ -1,0 +1,48 @@
+{
+  "subject": "CL",
+  "subjectName": "Company Law",
+  "totalForms": 32,
+
+  "forms": [
+    {
+      "formNo": "INC-1",
+      "title": "Application for Incorporation of a Company"
+    },
+    {
+      "formNo": "INC-2",
+      "title": "Declaration by the First Subscriber"
+    },
+    {
+      "formNo": "INC-3",
+      "title": "Memorandum of Association"
+    },
+    {
+      "formNo": "INC-4",
+      "title": "Articles of Association"
+    },
+    {
+      "formNo": "DIR-3",
+      "title": "Application for DIN"
+    },
+    {
+      "formNo": "DIR-12",
+      "title": "Particulars of Appointment of Directors"
+    },
+    {
+      "formNo": "MGT-7",
+      "title": "Annual Return"
+    },
+    {
+      "formNo": "AOC-4",
+      "title": "Financial Statements"
+    },
+    {
+      "formNo": "MGT-14",
+      "title": "Filing of Resolutions and Agreements"
+    },
+    {
+      "formNo": "SH-7",
+      "title": "Return of Share Allotment"
+    }
+  ]
+}
