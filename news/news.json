@@ -1,0 +1,58 @@
+{
+  "news": [
+    {
+      "title": "CS Executive Dec 2026 Examination Schedule Released",
+      "category": "exam",
+      "date": "2026-07-02",
+      "description": "Examination schedule for CS Executive December 2026.",
+      "pdf": "pdfs/exam/cs-executive-dec-2026-schedule.pdf",
+      "featured": true,
+      "new": true
+    },
+    {
+      "title": "Chartered Secretary Journal - July 2026",
+      "category": "journal",
+      "date": "2026-07-01",
+      "description": "July 2026 edition of Chartered Secretary Journal.",
+      "pdf": "pdfs/journal/july-2026.pdf",
+      "featured": false,
+      "new": true
+    },
+    {
+      "title": "MSOP Batch Registration Open",
+      "category": "training",
+      "date": "2026-06-28",
+      "description": "Registration opened for upcoming MSOP batch.",
+      "pdf": "pdfs/training/msop-registration.pdf",
+      "featured": false,
+      "new": false
+    },
+    {
+      "title": "ICSI National Conference on Corporate Governance",
+      "category": "event",
+      "date": "2026-06-25",
+      "description": "National Conference conducted by ICSI.",
+      "pdf": "pdfs/event/corporate-governance.pdf",
+      "featured": false,
+      "new": false
+    },
+    {
+      "title": "Certificate Course on ESG Registration Open",
+      "category": "course",
+      "date": "2026-06-22",
+      "description": "Registration details for ESG Certificate Course.",
+      "pdf": "pdfs/course/esg-course.pdf",
+      "featured": false,
+      "new": false
+    },
+    {
+      "title": "Important Student Announcement",
+      "category": "circular",
+      "date": "2026-06-20",
+      "description": "Circular issued for all Executive students.",
+      "pdf": "pdfs/circular/student-announcement.pdf",
+      "featured": false,
+      "new": false
+    }
+  ]
+}
