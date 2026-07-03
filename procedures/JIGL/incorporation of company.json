@@ -1,0 +1,27 @@
+{
+  "id": "cl-05",
+  "subject": "CL",
+  "title": "Change in Name Clause of MOA",
+  "steps": [
+    {
+      "no": 1,
+      "title": "Calling Board Meeting"
+    },
+    {
+      "no": 2,
+      "title": "Seeking Name Availability from ROC"
+    },
+    {
+      "no": 3,
+      "title": "ROC Approval"
+    },
+    {
+      "no": 4,
+      "title": "Issue EGM Notice"
+    },
+    {
+      "no": 5,
+      "title": "EGM Special Resolution"
+    }
+  ]
+}
