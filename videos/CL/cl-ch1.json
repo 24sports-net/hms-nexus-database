@@ -1,0 +1,38 @@
+{
+  "subject": "CL",
+  "chapterId": "cl-ch1",
+  "chapterNo": 1,
+  "chapterName": "Introduction to Company Law",
+  "videos": [
+    {
+      "id": "cl-ch1-v1",
+      "videoNo": 1,
+      "title": "History of Company Law",
+      "embedUrl": "https://www.youtube.com/embed/_seNQ68Nmrc?si=OyoCQ1PJ7C_tKVfJ"
+    },
+    {
+      "id": "cl-ch1-v2",
+      "videoNo": 2,
+      "title": "Doctrines",
+      "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?si=example123"
+    },
+    {
+      "id": "cl-ch1-v3",
+      "videoNo": 3,
+      "title": "Key Concepts of Company Law",
+      "embedUrl": "https://www.youtube.com/embed/jNQXAC9IVRw?si=example456"
+    },
+    {
+      "id": "cl-ch1-v4",
+      "videoNo": 4,
+      "title": "E-Governance and Company Law",
+      "embedUrl": "https://www.youtube.com/embed/M7lc1UVf-VE?si=example789"
+    },
+    {
+      "id": "cl-ch1-v5",
+      "videoNo": 5,
+      "title": "Hardware and Software Requirements for E-filing",
+      "embedUrl": "https://www.youtube.com/embed/ysz5S6PUM-U?si=example321"
+    }
+  ]
+}
