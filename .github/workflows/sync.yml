@@ -34,6 +34,9 @@ jobs:
       - name: Merge ICSI Supplements
         run: node scripts/merge-icsi-supplements.js
 
+      - name: Merge Procedures
+        run: node scripts/merge-procedures.js
+
       # Clone destination repository
       - name: Clone hms-nexus
         run: |
@@ -47,6 +50,7 @@ jobs:
           cp output/penalties.json hms-nexus/Database/penalties.json
           cp output/textbooks.json hms-nexus/Database/textbooks.json
           cp output/icsi-supplements.json hms-nexus/Database/icsi-supplements.json
+          cp output/procedures.json hms-nexus/Database/procedures.json
 
       # Commit and Push
       - name: Commit and Push
@@ -63,6 +67,7 @@ jobs:
           git add Database/penalties.json
           git add Database/textbooks.json
           git add Database/icsi-supplements.json
+          git add Database/procedures.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
