@@ -10,15 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout source repository
       - name: Checkout hms-nexus-database
         uses: actions/checkout@v4
 
+      # Setup Node
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # Merge JSON files
+      # Generate merged JSON files
       - name: Merge Videos
         run: node scripts/merge-videos.js
 
@@ -40,6 +42,9 @@ jobs:
       - name: Merge News
         run: node scripts/merge-news.js
 
+      - name: Merge Legal Maxims
+        run: node scripts/merge-legal-maxims.js
+
       # Clone destination repository
       - name: Clone hms-nexus
         run: |
@@ -55,8 +60,9 @@ jobs:
           cp output/icsi-supplements.json hms-nexus/Database/icsi-supplements.json
           cp output/procedures.json hms-nexus/Database/procedures.json
           cp output/news.json hms-nexus/Database/news.json
+          cp output/legal-maxims.json hms-nexus/Database/legal-maxims.json
 
-      # Commit and Push
+      # Commit & Push if there are changes
       - name: Commit and Push
         run: |
           cd hms-nexus
@@ -73,6 +79,7 @@ jobs:
           git add Database/icsi-supplements.json
           git add Database/procedures.json
           git add Database/news.json
+          git add Database/legal-maxims.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
