@@ -28,6 +28,9 @@ jobs:
       - name: Merge Penalties
         run: node scripts/merge-penalties.js
 
+      - name: Merge Textbooks
+        run: node scripts/merge-textbooks.js
+
       # Clone destination repository
       - name: Clone hms-nexus
         run: |
@@ -39,6 +42,7 @@ jobs:
           cp output/videos.json hms-nexus/Database/videos.json
           cp output/formulae.json hms-nexus/Database/formulae.json
           cp output/penalties.json hms-nexus/Database/penalties.json
+          cp output/textbooks.json hms-nexus/Database/textbooks.json
 
       # Commit and Push
       - name: Commit and Push
@@ -53,6 +57,7 @@ jobs:
           git add Database/videos.json
           git add Database/formulae.json
           git add Database/penalties.json
+          git add Database/textbooks.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
