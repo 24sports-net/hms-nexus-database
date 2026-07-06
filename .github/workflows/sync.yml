@@ -18,5 +18,26 @@ jobs:
         with:
           node-version: 20
 
-      - name: Run merge script
+      - name: Merge Videos
         run: node scripts/merge-videos.js
+
+      - name: Clone hms-nexus
+        run: |
+          git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
+
+      - name: Copy merged JSON
+        run: |
+          cp output/videos.json hms-nexus/Database/videos.json
+
+      - name: Commit and Push
+        run: |
+          cd hms-nexus
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add Database/videos.json
+
+          git diff --cached --quiet || (
+            git commit -m "Auto update videos.json"
+            git push
+          )
