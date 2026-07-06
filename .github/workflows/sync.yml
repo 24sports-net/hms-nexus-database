@@ -37,6 +37,9 @@ jobs:
       - name: Merge Procedures
         run: node scripts/merge-procedures.js
 
+      - name: Merge News
+        run: node scripts/merge-news.js
+
       # Clone destination repository
       - name: Clone hms-nexus
         run: |
@@ -51,6 +54,7 @@ jobs:
           cp output/textbooks.json hms-nexus/Database/textbooks.json
           cp output/icsi-supplements.json hms-nexus/Database/icsi-supplements.json
           cp output/procedures.json hms-nexus/Database/procedures.json
+          cp output/news.json hms-nexus/Database/news.json
 
       # Commit and Push
       - name: Commit and Push
@@ -68,6 +72,7 @@ jobs:
           git add Database/textbooks.json
           git add Database/icsi-supplements.json
           git add Database/procedures.json
+          git add Database/news.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
