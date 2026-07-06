@@ -25,16 +25,20 @@ jobs:
       - name: Merge Formulae
         run: node scripts/merge-formulae.js
 
+      - name: Merge Penalties
+        run: node scripts/merge-penalties.js
+
       # Clone destination repository
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
 
-      # Copy merged JSONs
+      # Copy merged JSON files
       - name: Copy merged JSON
         run: |
           cp output/videos.json hms-nexus/Database/videos.json
           cp output/formulae.json hms-nexus/Database/formulae.json
+          cp output/penalties.json hms-nexus/Database/penalties.json
 
       # Commit and Push
       - name: Commit and Push
@@ -48,6 +52,7 @@ jobs:
 
           git add Database/videos.json
           git add Database/formulae.json
+          git add Database/penalties.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
