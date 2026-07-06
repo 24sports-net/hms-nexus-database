@@ -28,3 +28,4 @@ fs.writeFileSync(
 );
 
 console.log("✅ legal-maxims.json generated successfully.");
+
