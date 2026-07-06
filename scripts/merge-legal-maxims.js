@@ -7,7 +7,7 @@ const SUBJECTS = ["JIGL", "CL", "SBIL", "CAFM"];
 const merged = {};
 
 SUBJECTS.forEach(subject => {
-  const file = path.join(ROOT, ${subject.toLowerCase()}.json);
+  const file = path.join(ROOT, '${subject.toLowerCase()}.json');
 
   if (fs.existsSync(file)) {
     merged[subject] = JSON.parse(fs.readFileSync(file, "utf8"));
