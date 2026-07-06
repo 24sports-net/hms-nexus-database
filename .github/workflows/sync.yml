@@ -21,6 +21,9 @@ jobs:
       - name: Merge Videos
         run: node scripts/merge-videos.js
 
+      - name: Merge Formulae
+      - run: node scripts/merge-formulae.js
+
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
