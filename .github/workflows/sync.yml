@@ -40,6 +40,9 @@ jobs:
       - name: Merge News
         run: node scripts/merge-news.js
 
+      - name: Merge Legal Maxims
+        run: node scripts/merge-legal-maxims.js
+
       # Clone destination repository
       - name: Clone hms-nexus
         run: |
@@ -55,6 +58,7 @@ jobs:
           cp output/icsi-supplements.json hms-nexus/Database/icsi-supplements.json
           cp output/procedures.json hms-nexus/Database/procedures.json
           cp output/news.json hms-nexus/Database/news.json
+          cp output/legal-maxims.json hms-nexus/Database/legal-maxims.json
 
       # Commit and Push
       - name: Commit and Push
@@ -73,6 +77,7 @@ jobs:
           git add Database/icsi-supplements.json
           git add Database/procedures.json
           git add Database/news.json
+          git add Database/legal-maxims.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
