@@ -51,7 +51,7 @@ jobs:
       - name: Merge Forms
         run: node scripts/merge-forms.js
 
-        - name: Merge Drafting
+      - name: Merge Drafting
         run: node scripts/merge-drafting.js
 
       - name: Clone hms-nexus
