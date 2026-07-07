@@ -51,6 +51,9 @@ jobs:
       - name: Merge Forms
         run: node scripts/merge-forms.js
 
+        - name: Merge Drafting
+        run: node scripts/merge-drafting.js
+
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
@@ -68,6 +71,7 @@ jobs:
           cp output/glossary.json hms-nexus/Database/glossary.json
           cp output/sections.json hms-nexus/Database/sections.json
           cp output/forms.json hms-nexus/Database/forms.json
+          cp output/drafting.json hms-nexus/Database/drafting.json
 
       - name: Commit and Push
         run: |
@@ -87,7 +91,8 @@ jobs:
             Database/legal-maxims.json \
             Database/glossary.json \
             Database/sections.json \
-            Database/forms.json
+            Database/forms.json \
+            Database/drafting.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
