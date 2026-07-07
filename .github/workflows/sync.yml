@@ -10,17 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout source repository
       - name: Checkout hms-nexus-database
         uses: actions/checkout@v4
 
-      # Setup Node
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # Generate merged JSON files
       - name: Merge Videos
         run: node scripts/merge-videos.js
 
@@ -48,12 +45,10 @@ jobs:
       - name: Merge Glossary
         run: node scripts/merge-glossary.js
 
-      # Clone destination repository
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
 
-      # Copy merged JSON files
       - name: Copy merged JSON
         run: |
           cp output/videos.json hms-nexus/Database/videos.json
@@ -66,7 +61,6 @@ jobs:
           cp output/legal-maxims.json hms-nexus/Database/legal-maxims.json
           cp output/glossary.json hms-nexus/Database/glossary.json
 
-      # Commit & Push if there are changes
       - name: Commit and Push
         run: |
           cd hms-nexus
@@ -74,19 +68,18 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git remote set-url origin https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
-
-          git add Database/videos.json
-          git add Database/formulae.json
-          git add Database/penalties.json
-          git add Database/textbooks.json
-          git add Database/icsi-supplements.json
-          git add Database/procedures.json
-          git add Database/news.json
-          git add Database/legal-maxims.json
-          git add Dtabase/glossary.json
+          git add \
+            Database/videos.json \
+            Database/formulae.json \
+            Database/penalties.json \
+            Database/textbooks.json \
+            Database/icsi-supplements.json \
+            Database/procedures.json \
+            Database/news.json \
+            Database/legal-maxims.json \
+            Database/glossary.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
-            git push origin main
+            git push
           )
