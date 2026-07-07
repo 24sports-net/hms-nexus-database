@@ -48,6 +48,9 @@ jobs:
       - name: Merge Sections
         run: node scripts/merge-sections.js
 
+      - name: Merge Forms
+        run: node scripts/merge-forms.js
+
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
@@ -64,6 +67,7 @@ jobs:
           cp output/legal-maxims.json hms-nexus/Database/legal-maxims.json
           cp output/glossary.json hms-nexus/Database/glossary.json
           cp output/sections.json hms-nexus/Database/sections.json
+          cp output/forms.json hms-nexus/Database/forms.json
 
       - name: Commit and Push
         run: |
@@ -82,7 +86,8 @@ jobs:
             Database/news.json \
             Database/legal-maxims.json \
             Database/glossary.json \
-            Database/sections.json
+            Database/sections.json \
+            Database/forms.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
