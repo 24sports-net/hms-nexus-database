@@ -87,7 +87,7 @@ jobs:
           cp output/flowcharts.json hms-nexus/Database/flowcharts.json
           cp output/summary.json hms-nexus/Database/summary.json
           cp output/comparison.json hms-nexus/Database/comparison.json
-          cp output/case-laws.json hms-nexus/assets/database/case-laws.json
+          cp output/case-laws.json hms-nexus/Database/case-laws.json
 
       - name: Commit and Push
         run: |
