@@ -63,6 +63,9 @@ jobs:
       - name: Merge Comparison
         run: node scripts/merge-comparison.js
 
+      - name: Merge Case Laws
+        run: node scripts/merge-case-laws.js
+
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
@@ -84,6 +87,7 @@ jobs:
           cp output/flowcharts.json hms-nexus/Database/flowcharts.json
           cp output/summary.json hms-nexus/Database/summary.json
           cp output/comparison.json hms-nexus/Database/comparison.json
+          cp output/case-laws.json hms-nexus/assets/database/case-laws.json
 
       - name: Commit and Push
         run: |
@@ -108,6 +112,7 @@ jobs:
             Database/flowcharts.json \
             Database/summary.json \
             Database/comparison.json \
+            Database/case-laws.json \
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
