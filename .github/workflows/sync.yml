@@ -54,6 +54,9 @@ jobs:
       - name: Merge Drafting
         run: node scripts/merge-drafting.js
 
+      - name: Merge Flowcharts
+        run: node scripts/merge-flowcharts.js
+
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
@@ -72,6 +75,7 @@ jobs:
           cp output/sections.json hms-nexus/Database/sections.json
           cp output/forms.json hms-nexus/Database/forms.json
           cp output/drafting.json hms-nexus/Database/drafting.json
+          cp output/flowcharts.json hms-nexus/Database/flowcharts.json
 
       - name: Commit and Push
         run: |
@@ -92,7 +96,8 @@ jobs:
             Database/glossary.json \
             Database/sections.json \
             Database/forms.json \
-            Database/drafting.json
+            Database/drafting.json \
+            Database/flowcharts.json \
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
