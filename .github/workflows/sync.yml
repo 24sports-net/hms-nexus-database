@@ -45,6 +45,9 @@ jobs:
       - name: Merge Legal Maxims
         run: node scripts/merge-legal-maxims.js
 
+      - name: Merge Glossary
+        run: node scripts/merge-glossary.js
+
       # Clone destination repository
       - name: Clone hms-nexus
         run: |
@@ -61,6 +64,7 @@ jobs:
           cp output/procedures.json hms-nexus/Database/procedures.json
           cp output/news.json hms-nexus/Database/news.json
           cp output/legal-maxims.json hms-nexus/Database/legal-maxims.json
+          cp output/glossary.json hms-nexus/Database/glossary.json
 
       # Commit & Push if there are changes
       - name: Commit and Push
@@ -80,6 +84,7 @@ jobs:
           git add Database/procedures.json
           git add Database/news.json
           git add Database/legal-maxims.json
+          git add Dtabase/glossary.json
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
