@@ -66,6 +66,9 @@ jobs:
       - name: Merge Case Laws
         run: node scripts/merge-case-laws.js
 
+      - name: Merge PY Question Papers
+        run: node scripts/merge-py-question-papers.js
+
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
@@ -88,6 +91,7 @@ jobs:
           cp output/summary.json hms-nexus/Database/summary.json
           cp output/comparison.json hms-nexus/Database/comparison.json
           cp output/case-laws.json hms-nexus/Database/case-laws.json
+          cp output/py-question-papers.json hms-nexus/Database/py-question-papers.json
 
       - name: Commit and Push
         run: |
@@ -113,6 +117,7 @@ jobs:
             Database/summary.json \
             Database/comparison.json \
             Database/case-laws.json \
+            Database/py-question-papers.json \
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
