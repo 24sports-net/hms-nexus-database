@@ -5,18 +5,6 @@
 
   "forms": [
     {
-      "formNo": "INC-1",
-      "title": "Application for Incorporation of a Company"
-    },
-    {
-      "formNo": "INC-2",
-      "title": "Declaration by the First Subscriber"
-    },
-    {
-      "formNo": "INC-3",
-      "title": "Memorandum of Association"
-    },
-    {
       "formNo": "INC-4",
       "title": "Articles of Association"
     },
