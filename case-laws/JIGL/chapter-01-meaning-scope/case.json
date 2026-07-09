@@ -1,19 +1,20 @@
 [
   {
-    "id": "JIGL-CH02-001",
-    "name": "Roscoe Pound v. State of Georgia",
+    "id": "JIGL-CH01-001",
+    "name": "Kesavananda Bharati v. State of Kerala",
     "citation": "(1916) 245 U.S. 489",
-    "year": "1916",
+    "year": "1973",
     "court": "Supreme Court of the United States",
     "area": "Jurisprudence",
-    "facts": "...",
-    "issue": "...",
-    "judgment": "...",
-    "summary": "...",
+    "facts": "Kesavananda Bharati, a religious head of Edneer Mutt, challenged the Kerala Land Reforms Act and the constitutional amendments made by Parliament which restricted the right to property. He argued that Parliament's power to amend the Constitution under Article 368 was limited.",
+    "issue": "Whether Parliament has unlimited power to amend any part of the Constitution, including Fundamental Rights, under Article 368?",
+    "judgment": "The Supreme Court held that Parliament's power of amendment is wide but not unlimited. It cannot alter the 'basic structure' or essential features of the Constitution. The Kesavananda Bharati case laid down the Basic Structure Doctrine.",
+    "summary": "In this landmark judgment, the Supreme Court dealt with the extent of Parliament's power to amend the Constitution under Article 368. The petitioner challenged the constitutional amendments that curtailed fundamental rights and the Kerala Land Reforms Act. The Court, by a majority, held that while Parliament has wide powers to amend the Constitution, it cannot alter its basic structure or essential features. These include the supremacy of the Constitution, republican and democratic form of government, secularism, judicial review, and federalism. This doctrine ensures that the identity and integrity of the Constitution remain intact and protects it from arbitrary amendments.",
     "keyTakeaways": [
-      "...",
-      "...",
-      "..."
+      "Parliament's power to amend is wide but not unlimited.",
+      "Basic Structure Doctrine introduced.",
+      "Protects essential features of the Constitution.",
+      "Ensures balance between amendment power and constitutional supremacy."
     ]
   },
   {
