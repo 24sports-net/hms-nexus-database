@@ -1,21 +1,21 @@
 {
-  "subject": "CL",
+  "subject": "CAFM",
   "flowCharts": [
     {
       "title": "Incorporation of Company",
-      "image": "images/incorporation-company.jpg"
+      "pdf": "pdfs/january-2026.pdf"
     },
     {
       "title": "Share Allotment Process",
-      "image": "images/share-allotment.jpg"
+      "pdf": "pdfs/january-2026.pdf""
     },
     {
       "title": "Issue of Shares",
-      "image": "images/issue-of-shares.jpg"
+      "pdf": "pdfs/january-2026.pdf"
     },
     {
       "title": "Board Meeting Process",
-      "image": "images/board-meeting.jpg"
+      "pdf": "pdfs/january-2026.pdf"
     }
   ]
 }
