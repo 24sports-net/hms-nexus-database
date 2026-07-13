@@ -1,6 +1,22 @@
 [
   {
-    "title": "Company Law Formulae",
-    "pdf": "pdfs/formulae.pdf"
+    "title": "Ratio Analysis",
+    "pdf": "pdfs/ratio.pdf"
+  },
+  {
+    "title": "DuPont Analysis",
+    "pdf": "pdfs/dupont.pdf"
+  },
+  {
+    "title": "Cash Flow Statement",
+    "pdf": "pdfs/cash-flow-statement.pdf"
+  },
+  {
+    "title": "Cost Sheet",
+    "pdf": "pdfs/cost-sheet.pdf"
+  },
+  {
+    "title": "Cash Budget",
+    "pdf": "pdfs/cash-budget.pdf"
   }
 ]
