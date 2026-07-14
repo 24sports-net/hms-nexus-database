@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const inputFile = path.join(__dirname, "..", "texts", "textbooks.json");
+const inputFile = path.join(__dirname, "..", "texts", "textbook.json");
 const outputDir = path.join(__dirname, "..", "output");
 
 if (!fs.existsSync(outputDir)) {
@@ -11,7 +11,7 @@ if (!fs.existsSync(outputDir)) {
 const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 
 fs.writeFileSync(
-  path.join(outputDir, "textbook.json"),
+  path.join(outputDir, "textbooks.json"),
   JSON.stringify(data, null, 2),
   "utf8"
 );
