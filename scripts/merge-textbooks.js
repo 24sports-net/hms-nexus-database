@@ -11,7 +11,7 @@ if (!fs.existsSync(outputDir)) {
 const data = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 
 fs.writeFileSync(
-  path.join(outputDir, "textbooks.json"),
+  path.join(outputDir, "textbook.json"),
   JSON.stringify(data, null, 2),
   "utf8"
 );
