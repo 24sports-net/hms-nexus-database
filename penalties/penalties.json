@@ -2,21 +2,21 @@
   {
     "subject": "JIGL",
     "title": "Jurisprudence, Interpretation & General Laws - Penalties",
-    "pdf": "JIGL.pdf"
+    "pdf": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus-database@main/pdf/jigl.pdf"
   },
   {
     "subject": "CL",
     "title": "Company Law - Penalties",
-    "pdf": "CL.pdf"
+    "pdf": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus-database@main/pdf/cl.pdf"
   },
   {
     "subject": "SBIL",
     "title": "Setting-up of Business, Industrial & Labour Laws - Penalties",
-    "pdf": "SBIL.pdf"
+    "pdf": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus-database@main/pdf/sbil.pdf"
   },
   {
     "subject": "CAFM",
     "title": "Corporate Accounting & Financial Management - Penalties",
-    "pdf": "CAFM.pdf"
+    "pdf": "https://cdn.jsdelivr.net/gh/24sports-net/hms-nexus-database@main/pdf/cafm.pdf"
   }
 ]
