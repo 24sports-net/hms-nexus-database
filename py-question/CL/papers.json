@@ -2,86 +2,41 @@
   {
     "subject": "CL",
     "exam": "June 2026",
-    "pdf": "https://www.icsi.edu/media/webmodules/examination/June2026/522.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/cl-june2026.pdf"
   },
   {
     "subject": "CL",
     "exam": "December 2025",
-    "pdf": "pdfs/CL/dec-2025.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/cl-december2025.pdf"
   },
   {
     "subject": "CL",
     "exam": "June 2025",
-    "pdf": "pdfs/CL/june-2025.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/cl-june2025.pdf"
   },
   {
     "subject": "CL",
     "exam": "December 2024",
-    "pdf": "pdfs/CL/dec-2024.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/cl-december2024.pdf"
   },
   {
     "subject": "CL",
     "exam": "June 2024",
-    "pdf": "pdfs/CL/june-2024.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/cl-june2024.pdf"
   },
   {
     "subject": "CL",
     "exam": "December 2023",
-    "pdf": "pdfs/CL/dec-2023.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/cl-december2023.pdf"
   },
   {
     "subject": "CL",
     "exam": "June 2023",
-    "pdf": "pdfs/CL/june-2023.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/cl-june2023.pdf"
   },
   {
     "subject": "CL",
     "exam": "December 2022",
-    "pdf": "pdfs/CL/dec-2022.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "June 2022",
-    "pdf": "pdfs/CL/june-2022.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "December 2021",
-    "pdf": "pdfs/CL/dec-2021.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "June 2021",
-    "pdf": "pdfs/CL/june-2021.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "December 2020",
-    "pdf": "pdfs/CL/dec-2020.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "June 2020",
-    "pdf": "pdfs/CL/june-2020.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "December 2019",
-    "pdf": "pdfs/CL/dec-2019.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "June 2019",
-    "pdf": "pdfs/CL/june-2019.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "December 2018",
-    "pdf": "pdfs/CL/dec-2018.pdf"
-  },
-  {
-    "subject": "CL",
-    "exam": "June 2018",
-    "pdf": "pdfs/CL/june-2018.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/cl-december2022.pdf"
   }
 ]
