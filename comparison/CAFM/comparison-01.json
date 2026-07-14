@@ -1,31 +1,12 @@
-{
-  "title": "Private Company vs Public Company vs OPC",
-  "headers": [
-    "Particular",
-    "Private Company",
-    "Public Company",
-    "OPC"
-  ],
-  "data": [
-    {
-      "particular": "Minimum Members",
-      "values": ["2", "7", "1"]
-    },
-    {
-      "particular": "Maximum Members",
-      "values": ["200", "No Limit", "1"]
-    },
-    {
-      "particular": "Minimum Directors",
-      "values": ["2", "3", "1"]
-    },
-    {
-      "particular": "Prospectus",
-      "values": ["Not Required", "Required", "Not Required"]
-    },
-    {
-      "particular": "Annual Return",
-      "values": ["Required", "Required", "Required"]
-    }
-  ]
-}
+[
+  {
+    "chapterNo": 1,
+    "chapter": "Overview of Financial Management",
+    "comparisons": [
+      {
+        "title": "Financial Management vs Financial Accounting",
+        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/cafm/financial-management-vs-financial-accounting.pdf"
+      }
+    ]
+  }
+]
