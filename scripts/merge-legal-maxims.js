@@ -1,30 +1,36 @@
 const fs = require("fs");
 const path = require("path");
 
-const ROOT = path.join(__dirname, "..", "legal-maxims");
-const SUBJECTS = ["JIGL", "CL", "SBIL", "CAFM"];
+const INPUT_DIR = path.join(__dirname, "..", "legal-maxims");
+const OUTPUT_DIR = path.join(__dirname, "..", "output");
 
+const subjects = ["JIGL", "CL", "SBIL", "CAFM"];
 const merged = {};
 
-SUBJECTS.forEach(subject => {
-  const file = path.join(ROOT, ${subject.toLowerCase()}.json);
+subjects.forEach(subject => {
+  const filePath = path.join(INPUT_DIR, `${subject.toLowerCase()}.json`);
 
-  if (fs.existsSync(file)) {
-    merged[subject] = JSON.parse(fs.readFileSync(file, "utf8"));
+  if (fs.existsSync(filePath)) {
+    merged[subject] = JSON.parse(
+      fs.readFileSync(filePath, "utf8")
+    );
   } else {
-    merged[subject] = {};
+    console.warn(`⚠ ${filePath} not found.`);
+    merged[subject] = {
+      subject,
+      maxims: []
+    };
   }
 });
 
-const outputDir = path.join(__dirname, "..", "output");
-
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir);
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 }
 
 fs.writeFileSync(
-  path.join(outputDir, "legal-maxims.json"),
-  JSON.stringify(merged, null, 2)
+  path.join(OUTPUT_DIR, "legal-maxims.json"),
+  JSON.stringify(merged, null, 2),
+  "utf8"
 );
 
 console.log("✅ legal-maxims.json generated successfully.");
