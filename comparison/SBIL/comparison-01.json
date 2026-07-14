@@ -1,39 +1,11 @@
 [
   {
     "chapterNo": 1,
-    "chapter": "Incorporation of Company",
+    "chapter": "The Indian Contract Act, 1872",
     "comparisons": [
       {
-        "title": "Private Company vs Public Company vs OPC",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/private-public-opc.pdf"
-      }
-    ]
-  },
-  {
-    "chapterNo": 2,
-    "chapter": "Share Capital",
-    "comparisons": [
-      {
-        "title": "Share Certificate vs Share Warrant",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/share-certificate-vs-share-warrant.pdf"
-      },
-      {
-        "title": "Equity Shares vs Preference Shares",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/equity-vs-preference-shares.pdf"
-      },
-      {
-        "title": "Bonus Shares vs Rights Shares",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/bonus-vs-rights-shares.pdf"
-      }
-    ]
-  },
-  {
-    "chapterNo": 3,
-    "chapter": "Prospectus",
-    "comparisons": [
-      {
-        "title": "Shelf Prospectus vs Red Herring Prospectus",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/shelf-vs-red-herring.pdf"
+        "title": "Void Agreement vs Void Contract",
+        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/sbil/void-agreement-vs-void-contract.pdf"
       }
     ]
   }
