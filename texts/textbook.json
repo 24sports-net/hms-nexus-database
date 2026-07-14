@@ -3,19 +3,19 @@
     "subject": "JIGL",
     "title": "Jurisprudence Textbook",
     "edition": "2026",
-    "pdf": "pdfs/jigl-textbook.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus-database/main/texts/pdf/JIGL-textbook.pdf"
   },
   {
     "subject": "CL",
     "title": "Company Law Textbook",
     "edition": "2026",
-    "pdf": "pdfs/cl-textbook.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus-database/main/texts/pdf/CL-textbook.pdf"
   },
   {
     "subject": "SBIL",
     "title": "Setting-up of Business, Industrial & Labour Laws Textbook",
     "edition": "2026",
-    "pdf": "pdfs/sbil-textbook.pdf"
+    "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus-database/main/texts/pdf/SBIL-textbook.pdf"
   },
   {
     "subject": "CAFM",
