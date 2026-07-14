@@ -1,33 +1,11 @@
 [
   {
     "chapterNo": 1,
-    "chapter": "Jurisprudence",
-    "comparisons": [
-      {
-        "title": "Natural Law vs Positive Law",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/jigl/natural-law-vs-positive-law.pdf"
-      },
-      {
-        "title": "Public Law vs Private Law",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/jigl/public-law-vs-private-law.pdf"
-      }
-    ]
-  },
-  {
-    "chapterNo": 2,
     "chapter": "Constitution of India",
     "comparisons": [
       {
         "title": "Fundamental Rights vs Directive Principles",
         "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/jigl/fr-vs-dpsp.pdf"
-      },
-      {
-        "title": "Writs Comparison",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/jigl/writs-comparison.pdf"
-      },
-      {
-        "title": "Parliament vs State Legislature",
-        "pdf": "https://raw.githubusercontent.com/24sports-net/hms-nexus/main/PDF/comparison/jigl/parliament-vs-state-legislature.pdf"
       }
     ]
   }
