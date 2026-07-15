@@ -1,0 +1,41 @@
+{
+  "subject": "JIGL",
+  "chapterNo": 1,
+  "chapter": "Meaning and Nature of Jurisprudence",
+  "maxTime": 1200,
+  "questions": [
+    {
+      "questionNo": 1,
+      "question": "Which of the following best defines Jurisprudence?",
+      "options": [
+        "Science of Law",
+        "Science of Economics",
+        "Science of Politics",
+        "Science of Commerce"
+      ],
+      "answer": "Science of Law"
+    },
+    {
+      "questionNo": 2,
+      "question": "Who is regarded as the Father of Analytical School of Jurisprudence?",
+      "options": [
+        "John Austin",
+        "Savigny",
+        "Roscoe Pound",
+        "Salmond"
+      ],
+      "answer": "John Austin"
+    },
+    {
+      "questionNo": 3,
+      "question": "Jurisprudence is primarily the study of:",
+      "options": [
+        "Law",
+        "Medicine",
+        "Physics",
+        "Chemistry"
+      ],
+      "answer": "Law"
+    }
+  ]
+}
