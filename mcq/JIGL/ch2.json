@@ -1,0 +1,118 @@
+{
+  "subject": "JIGL",
+  "chapterNo": 2,
+  "chapter": "Schools of Jurisprudence",
+  "maxTime": 1200,
+  "questions": [
+    {
+      "questionNo": 1,
+      "question": "Who is regarded as the founder of the Analytical School of Jurisprudence?",
+      "options": [
+        "John Austin",
+        "Savigny",
+        "Roscoe Pound",
+        "Bentham"
+      ],
+      "answer": "John Austin"
+    },
+    {
+      "questionNo": 2,
+      "question": "The Historical School of Jurisprudence is mainly associated with:",
+      "options": [
+        "Savigny",
+        "Austin",
+        "Kelsen",
+        "Salmond"
+      ],
+      "answer": "Savigny"
+    },
+    {
+      "questionNo": 3,
+      "question": "The Sociological School primarily emphasizes:",
+      "options": [
+        "Law as a social institution",
+        "Law as the command of the sovereign",
+        "Law based only on customs",
+        "Law as moral philosophy"
+      ],
+      "answer": "Law as a social institution"
+    },
+    {
+      "questionNo": 4,
+      "question": "Who propounded the theory of 'Law as a Command of the Sovereign'?",
+      "options": [
+        "John Austin",
+        "Roscoe Pound",
+        "Savigny",
+        "Holland"
+      ],
+      "answer": "John Austin"
+    },
+    {
+      "questionNo": 5,
+      "question": "Roscoe Pound is associated with which school of jurisprudence?",
+      "options": [
+        "Sociological School",
+        "Historical School",
+        "Analytical School",
+        "Natural School"
+      ],
+      "answer": "Sociological School"
+    },
+    {
+      "questionNo": 6,
+      "question": "According to Savigny, law develops through:",
+      "options": [
+        "Volksgeist (Spirit of the People)",
+        "Acts of Parliament",
+        "Judicial precedents only",
+        "Royal decrees"
+      ],
+      "answer": "Volksgeist (Spirit of the People)"
+    },
+    {
+      "questionNo": 7,
+      "question": "The Natural School believes that law is based on:",
+      "options": [
+        "Reason and morality",
+        "Commands of the sovereign",
+        "Economic factors",
+        "Customs alone"
+      ],
+      "answer": "Reason and morality"
+    },
+    {
+      "questionNo": 8,
+      "question": "Which school considers law as an instrument of social engineering?",
+      "options": [
+        "Sociological School",
+        "Analytical School",
+        "Historical School",
+        "Natural School"
+      ],
+      "answer": "Sociological School"
+    },
+    {
+      "questionNo": 9,
+      "question": "Who is known as the Father of Historical School of Jurisprudence?",
+      "options": [
+        "Savigny",
+        "Austin",
+        "Bentham",
+        "Salmond"
+      ],
+      "answer": "Savigny"
+    },
+    {
+      "questionNo": 10,
+      "question": "Which school argues that customs are the primary source of law?",
+      "options": [
+        "Historical School",
+        "Analytical School",
+        "Sociological School",
+        "Realist School"
+      ],
+      "answer": "Historical School"
+    }
+  ]
+}
