@@ -72,6 +72,9 @@ jobs:
       - name: Merge Notes
         run: node scripts/merge-notes.js
 
+      - name: Merge MCQ
+        run: node scripts/merge-mcq.js
+
       - name: Clone hms-nexus
         run: |
           git clone https://x-access-token:${{ secrets.HMS_NEXUS_TOKEN }}@github.com/24sports-net/hms-nexus.git
@@ -96,6 +99,7 @@ jobs:
           cp output/case-laws.json hms-nexus/Database/case-laws.json
           cp output/py-question-papers.json hms-nexus/Database/py-question-papers.json
           cp output/notes.json hms-nexus/Database/notes.json
+          cp output/mcq.json hms-nexus/Database/mcq.json
 
       - name: Commit and Push
         run: |
@@ -123,6 +127,7 @@ jobs:
             Database/case-laws.json \
             Database/py-question-papers.json \
             Database/notes.json \
+            Database/mcq.json \
 
           git diff --cached --quiet || (
             git commit -m "Auto update database"
