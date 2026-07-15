@@ -1,0 +1,63 @@
+{
+  "subject": "CAFM",
+  "chapterNo": 1,
+  "chapter": "Accounting Principles",
+  "maxTime": 1200,
+  "questions": [
+    {
+      "questionNo": 1,
+      "question": "Accounting is mainly concerned with:",
+      "options": [
+        "Recording financial transactions",
+        "Manufacturing goods",
+        "Selling products",
+        "Preparing legal documents"
+      ],
+      "answer": "Recording financial transactions"
+    },
+    {
+      "questionNo": 2,
+      "question": "The accounting equation is:",
+      "options": [
+        "Assets = Liabilities + Capital",
+        "Assets = Income - Expenses",
+        "Capital = Assets + Liabilities",
+        "Profit = Assets - Liabilities"
+      ],
+      "answer": "Assets = Liabilities + Capital"
+    },
+    {
+      "questionNo": 3,
+      "question": "Which accounting concept assumes a business will continue for the foreseeable future?",
+      "options": [
+        "Going Concern",
+        "Money Measurement",
+        "Matching",
+        "Dual Aspect"
+      ],
+      "answer": "Going Concern"
+    },
+    {
+      "questionNo": 4,
+      "question": "Which financial statement shows the financial position of a business?",
+      "options": [
+        "Balance Sheet",
+        "Cash Book",
+        "Journal",
+        "Trial Balance"
+      ],
+      "answer": "Balance Sheet"
+    },
+    {
+      "questionNo": 5,
+      "question": "The Double Entry System is based on:",
+      "options": [
+        "Dual Aspect Concept",
+        "Historical Cost Concept",
+        "Business Entity Concept",
+        "Prudence Concept"
+      ],
+      "answer": "Dual Aspect Concept"
+    }
+  ]
+}
