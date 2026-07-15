@@ -1,0 +1,63 @@
+{
+  "subject": "CL",
+  "chapterNo": 1,
+  "chapter": "Introduction to Company Law",
+  "maxTime": 1200,
+  "questions": [
+    {
+      "questionNo": 1,
+      "question": "The Companies Act, 2013 came into force replacing which Act?",
+      "options": [
+        "Companies Act, 1956",
+        "Indian Companies Act, 1913",
+        "Limited Liability Partnership Act, 2008",
+        "Partnership Act, 1932"
+      ],
+      "answer": "Companies Act, 1956"
+    },
+    {
+      "questionNo": 2,
+      "question": "A company is considered a:",
+      "options": [
+        "Separate legal entity",
+        "Partnership",
+        "Trust",
+        "Co-operative Society"
+      ],
+      "answer": "Separate legal entity"
+    },
+    {
+      "questionNo": 3,
+      "question": "Which of the following is NOT a characteristic of a company?",
+      "options": [
+        "Unlimited liability of members",
+        "Perpetual succession",
+        "Separate legal entity",
+        "Common seal (optional)"
+      ],
+      "answer": "Unlimited liability of members"
+    },
+    {
+      "questionNo": 4,
+      "question": "The doctrine established in Salomon v. Salomon & Co. Ltd. relates to:",
+      "options": [
+        "Separate legal entity",
+        "Indoor management",
+        "Constructive notice",
+        "Ultra vires"
+      ],
+      "answer": "Separate legal entity"
+    },
+    {
+      "questionNo": 5,
+      "question": "Which of the following is governed by the Companies Act, 2013?",
+      "options": [
+        "Companies",
+        "Partnership Firms",
+        "Trusts",
+        "Societies"
+      ],
+      "answer": "Companies"
+    }
+  ]
+}
