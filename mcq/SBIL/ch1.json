@@ -1,0 +1,63 @@
+{
+  "subject": "SBIL",
+  "chapterNo": 1,
+  "chapter": "Setting Up of Business",
+  "maxTime": 1200,
+  "questions": [
+    {
+      "questionNo": 1,
+      "question": "The first step in setting up a business is:",
+      "options": [
+        "Selection of business idea",
+        "Recruitment of employees",
+        "Opening a bank account",
+        "Preparing financial statements"
+      ],
+      "answer": "Selection of business idea"
+    },
+    {
+      "questionNo": 2,
+      "question": "Which form of business has separate legal status?",
+      "options": [
+        "Company",
+        "Sole Proprietorship",
+        "HUF",
+        "Partnership Firm"
+      ],
+      "answer": "Company"
+    },
+    {
+      "questionNo": 3,
+      "question": "The main objective of a feasibility study is to:",
+      "options": [
+        "Assess business viability",
+        "Prepare annual accounts",
+        "Calculate tax",
+        "Recruit directors"
+      ],
+      "answer": "Assess business viability"
+    },
+    {
+      "questionNo": 4,
+      "question": "A business plan is primarily prepared to:",
+      "options": [
+        "Guide the business",
+        "Audit accounts",
+        "File income tax return",
+        "Conduct board meetings"
+      ],
+      "answer": "Guide the business"
+    },
+    {
+      "questionNo": 5,
+      "question": "Which factor is most important while selecting a business location?",
+      "options": [
+        "Availability of resources",
+        "Favourite colour of owner",
+        "Personal hobbies",
+        "Office furniture"
+      ],
+      "answer": "Availability of resources"
+    }
+  ]
+}
