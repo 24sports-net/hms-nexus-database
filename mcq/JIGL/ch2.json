@@ -1,118 +1,558 @@
 {
   "subject": "JIGL",
   "chapterNo": 2,
-  "chapter": "Schools of Jurisprudence",
-  "maxTime": 60,
+  "chapter": "Constitution of India",
+  "maxTime": 3000,
   "questions": [
     {
       "questionNo": 1,
-      "question": "Who is regarded as the founder of the Analytical School of Jurisprudence?",
+      "question": "On which date did the Constitution of India come into force?",
       "options": [
-        "John Austin",
-        "Savigny",
-        "Roscoe Pound",
-        "Bentham"
+        "November 26, 1949",
+        "January 26, 1950",
+        "August 15, 1947",
+        "January 26, 1949"
       ],
-      "answer": "John Austin"
+      "answer": "January 26, 1950"
     },
     {
       "questionNo": 2,
-      "question": "The Historical School of Jurisprudence is mainly associated with:",
+      "question": "The Preamble of the Indian Constitution declares India to be a:",
       "options": [
-        "Savigny",
-        "Austin",
-        "Kelsen",
-        "Salmond"
+        "Sovereign, Democratic, Republic",
+        "Sovereign, Socialist, Secular, Democratic Republic",
+        "Sovereign, Religious, Democratic Republic",
+        "Federal, Socialist, Democratic Republic"
       ],
-      "answer": "Savigny"
+      "answer": "Sovereign, Socialist, Secular, Democratic Republic"
     },
     {
       "questionNo": 3,
-      "question": "The Sociological School primarily emphasizes:",
+      "question": "From whom does the Constitution of India derive its authority?",
       "options": [
-        "Law as a social institution",
-        "Law as the command of the sovereign",
-        "Law based only on customs",
-        "Law as moral philosophy"
+        "The Parliament of India",
+        "The Supreme Court of India",
+        "The People of India",
+        "The British Parliament"
       ],
-      "answer": "Law as a social institution"
+      "answer": "The People of India"
     },
     {
       "questionNo": 4,
-      "question": "Who propounded the theory of 'Law as a Command of the Sovereign'?",
+      "question": "The term \"Sovereign\" in the Preamble signifies that India is:",
       "options": [
-        "John Austin",
-        "Roscoe Pound",
-        "Savigny",
-        "Holland"
+        "Internally sovereign but externally dependent",
+        "Externally sovereign but internally dependent",
+        "Externally and internally sovereign",
+        "A member of the British Commonwealth"
       ],
-      "answer": "John Austin"
+      "answer": "Externally and internally sovereign"
     },
     {
       "questionNo": 5,
-      "question": "Roscoe Pound is associated with which school of jurisprudence?",
+      "question": "How many Articles and Schedules were originally contained in the Constitution of India?",
       "options": [
-        "Sociological School",
-        "Historical School",
-        "Analytical School",
-        "Natural School"
+        "395 Articles and 8 Schedules",
+        "448 Articles and 12 Schedules",
+        "395 Articles and 12 Schedules",
+        "400 Articles and 10 Schedules"
       ],
-      "answer": "Sociological School"
+      "answer": "395 Articles and 12 Schedules"
     },
     {
       "questionNo": 6,
-      "question": "According to Savigny, law develops through:",
+      "question": "Which case established that federal features form part of the \"basic structure\" of the Indian Constitution?",
       "options": [
-        "Volksgeist (Spirit of the People)",
-        "Acts of Parliament",
-        "Judicial precedents only",
-        "Royal decrees"
+        "A.K. Gopalan v. State of Madras",
+        "Kesavananda Bharati v. State of Kerala",
+        "Maneka Gandhi v. Union of India",
+        "Golaknath v. State of Punjab"
       ],
-      "answer": "Volksgeist (Spirit of the People)"
+      "answer": "Kesavananda Bharati v. State of Kerala"
     },
     {
       "questionNo": 7,
-      "question": "The Natural School believes that law is based on:",
+      "question": "Which of the following is NOT an essential feature of a federal system according to the text?",
       "options": [
-        "Reason and morality",
-        "Commands of the sovereign",
-        "Economic factors",
-        "Customs alone"
+        "Distribution of powers",
+        "Supremacy of the Constitution",
+        "Single Government at the Center",
+        "Independence of Judiciary"
       ],
-      "answer": "Reason and morality"
+      "answer": "Single Government at the Center"
     },
     {
       "questionNo": 8,
-      "question": "Which school considers law as an instrument of social engineering?",
+      "question": "In India, residuary powers of legislation are vested in:",
       "options": [
-        "Sociological School",
-        "Analytical School",
-        "Historical School",
-        "Natural School"
+        "The States",
+        "The Union",
+        "Both Union and States",
+        "The President"
       ],
-      "answer": "Sociological School"
+      "answer": "The Union"
     },
     {
       "questionNo": 9,
-      "question": "Who is known as the Father of Historical School of Jurisprudence?",
+      "question": "The Indian Constitution is often described as:",
       "options": [
-        "Savigny",
-        "Austin",
-        "Bentham",
-        "Salmond"
+        "Purely Federal",
+        "Purely Unitary",
+        "Federal with certain unitary features",
+        "A Confederation"
       ],
-      "answer": "Savigny"
+      "answer": "Federal with certain unitary features"
     },
     {
       "questionNo": 10,
-      "question": "Which school argues that customs are the primary source of law?",
+      "question": "Unlike the American federal system, India has:",
       "options": [
-        "Historical School",
-        "Analytical School",
-        "Sociological School",
-        "Realist School"
+        "Dual Citizenship",
+        "Single Citizenship",
+        "No written Constitution",
+        "No distribution of powers"
       ],
-      "answer": "Historical School"
+      "answer": "Single Citizenship"
+    },
+    {
+      "questionNo": 11,
+      "question": "Under Article 12, the definition of \"State\" includes:",
+      "options": [
+        "Only the Government and Parliament of India",
+        "Only State Legislatures",
+        "Government, Parliament, State Legislatures, and all local or other authorities",
+        "Only judicial authorities"
+      ],
+      "answer": "Government, Parliament, State Legislatures, and all local or other authorities"
+    },
+    {
+      "questionNo": 12,
+      "question": "According to the Supreme Court in the BCCI case (Zee Telefilms Ltd. v. Union of India), the BCCI is:",
+      "options": [
+        "A State under Article 12",
+        "Not a State because it is not financially or functionally dominated by the Government",
+        "An instrumentality of the State",
+        "A local authority"
+      ],
+      "answer": "Not a State because it is not financially or functionally dominated by the Government"
+    },
+    {
+      "questionNo": 13,
+      "question": "Article 13(1) declares that pre-Constitutional laws are void to the extent of their inconsistency with:",
+      "options": [
+        "Directive Principles",
+        "Fundamental Rights",
+        "Fundamental Duties",
+        "Preamble"
+      ],
+      "answer": "Fundamental Rights"
+    },
+    {
+      "questionNo": 14,
+      "question": "The \"Doctrine of Severability\" means:",
+      "options": [
+        "The entire law is void if one part is unconstitutional",
+        "Only the inconsistent part of the law is void, if it can be separated from the valid part",
+        "Pre-Constitutional laws are completely abolished",
+        "The President can sever any law"
+      ],
+      "answer": "Only the inconsistent part of the law is void, if it can be separated from the valid part"
+    },
+    {
+      "questionNo": 15,
+      "question": "The \"Doctrine of Eclipse\" applies primarily to:",
+      "options": [
+        "Future laws",
+        "Pre-Constitutional laws that become inconsistent with Fundamental Rights",
+        "Constitutional Amendments",
+        "Laws made by the President"
+      ],
+      "answer": "Pre-Constitutional laws that become inconsistent with Fundamental Rights"
+    },
+    {
+      "questionNo": 16,
+      "question": "Article 14 guarantees equality before the law to:",
+      "options": [
+        "Citizens only",
+        "All persons, including juristic persons like corporations",
+        "Government officials only",
+        "Only persons born in India"
+      ],
+      "answer": "All persons, including juristic persons like corporations"
+    },
+    {
+      "questionNo": 17,
+      "question": "To be valid, a legislative classification under Article 14 must satisfy:",
+      "options": [
+        "The test of absolute equality",
+        "The twin test of Intelligible Differentia and Rational Nexus",
+        "The approval of the Supreme Court only",
+        "The test of geographical location"
+      ],
+      "answer": "The twin test of Intelligible Differentia and Rational Nexus"
+    },
+    {
+      "questionNo": 18,
+      "question": "Which Article prohibits discrimination on grounds only of religion, race, caste, sex, or place of birth?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "answer": "Article 15"
+    },
+    {
+      "questionNo": 19,
+      "question": "Article 15(3) allows the State to make special provisions for:",
+      "options": [
+        "Men",
+        "Foreigners",
+        "Women and children",
+        "Scientists"
+      ],
+      "answer": "Women and children"
+    },
+    {
+      "questionNo": 20,
+      "question": "The 103rd Amendment Act, 2019, introduced reservations for:",
+      "options": [
+        "Scheduled Castes",
+        "Scheduled Tribes",
+        "Economically Weaker Sections (EWS)",
+        "Other Backward Classes"
+      ],
+      "answer": "Economically Weaker Sections (EWS)"
+    },
+    {
+      "questionNo": 21,
+      "question": "Article 16(1) guarantees equality of opportunity in:",
+      "options": [
+        "Private businesses",
+        "Matters of public employment",
+        "Religious practices",
+        "Foreign travel"
+      ],
+      "answer": "Matters of public employment"
+    },
+    {
+      "questionNo": 22,
+      "question": "According to the text, the ceiling for reservation of vacancies in a year (excluding carry-forward) is generally:",
+      "options": [
+        "27%",
+        "50%",
+        "75%",
+        "10%"
+      ],
+      "answer": "50%"
+    },
+    {
+      "questionNo": 23,
+      "question": "How many fundamental freedoms are currently guaranteed under Article 19(1)?",
+      "options": [
+        "Seven",
+        "Six",
+        "Five",
+        "Eight"
+      ],
+      "answer": "Six"
+    },
+    {
+      "questionNo": 24,
+      "question": "Which of the following is NOT a freedom listed under Article 19?",
+      "options": [
+        "Freedom of speech and expression",
+        "Freedom to assemble peaceably without arms",
+        "Right to strike",
+        "Freedom to form associations or unions"
+      ],
+      "answer": "Right to strike"
+    },
+    {
+      "questionNo": 25,
+      "question": "Restrictions on the freedoms under Article 19 must be:",
+      "options": [
+        "Absolute",
+        "Reasonable",
+        "Subjective",
+        "Temporary"
+      ],
+      "answer": "Reasonable"
+    },
+    {
+      "questionNo": 26,
+      "question": "The \"Right to Know\" and \"Freedom of the Press\" are derived from which Article?",
+      "options": [
+        "Article 19(1)(a)",
+        "Article 21",
+        "Article 14",
+        "Article 25"
+      ],
+      "answer": "Article 19(1)(a)"
+    },
+    {
+      "questionNo": 27,
+      "question": "Article 20(2) provides protection against \"Double Jeopardy,\" which means:",
+      "options": [
+        "No person can be arrested without a warrant",
+        "No person shall be prosecuted and punished for the same offence more than once",
+        "No person can be a witness against himself",
+        "No person can be fined twice for a civil wrong"
+      ],
+      "answer": "No person shall be prosecuted and punished for the same offence more than once"
+    },
+    {
+      "questionNo": 28,
+      "question": "Protection against self-incrimination is provided under:",
+      "options": [
+        "Article 20(1)",
+        "Article 20(3)",
+        "Article 21",
+        "Article 22"
+      ],
+      "answer": "Article 20(3)"
+    },
+    {
+      "questionNo": 29,
+      "question": "Article 21 states that no person shall be deprived of his life or personal liberty except according to:",
+      "options": [
+        "Due process of law",
+        "Procedure established by law",
+        "Orders of the President",
+        "Decisions of the Parliament"
+      ],
+      "answer": "Procedure established by law"
+    },
+    {
+      "questionNo": 30,
+      "question": "Which case expanded Article 21 to include the \"Right to travel abroad\"?",
+      "options": [
+        "A.K. Gopalan case",
+        "Maneka Gandhi v. Union of India",
+        "Kesavananda Bharati case",
+        "R.K. Garg v. Union of India"
+      ],
+      "answer": "Maneka Gandhi v. Union of India"
+    },
+    {
+      "questionNo": 31,
+      "question": "The Right to Education (Article 21A) provides free and compulsory education to children of age:",
+      "options": [
+        "5 to 12 years",
+        "6 to 14 years",
+        "3 to 10 years",
+        "6 to 18 years"
+      ],
+      "answer": "6 to 14 years"
+    },
+    {
+      "questionNo": 32,
+      "question": "Prohibition of \"Begar\" and forced labour is guaranteed by:",
+      "options": [
+        "Article 23",
+        "Article 24",
+        "Article 17",
+        "Article 21"
+      ],
+      "answer": "Article 23"
+    },
+    {
+      "questionNo": 33,
+      "question": "Article 24 prohibits the employment of children below the age of ____ in factories or mines.",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "answer": "14"
+    },
+    {
+      "questionNo": 34,
+      "question": "Which Article is described as the \"Heart and Soul\" of the Constitution?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 32",
+        "Article 51A"
+      ],
+      "answer": "Article 32"
+    },
+    {
+      "questionNo": 35,
+      "question": "Directive Principles of State Policy (Part IV) are:",
+      "options": [
+        "Enforceable by Writs",
+        "Non-justiciable but fundamental in the governance of the country",
+        "Subordinate to Fundamental Duties",
+        "Only applicable to the Union Government"
+      ],
+      "answer": "Non-justiciable but fundamental in the governance of the country"
+    },
+    {
+      "questionNo": 36,
+      "question": "Which Article directs the State to organize Village Panchayats?",
+      "options": [
+        "Article 38",
+        "Article 40",
+        "Article 44",
+        "Article 50"
+      ],
+      "answer": "Article 40"
+    },
+    {
+      "questionNo": 37,
+      "question": "The State shall endeavour to secure a Uniform Civil Code under:",
+      "options": [
+        "Article 40",
+        "Article 44",
+        "Article 48",
+        "Article 51"
+      ],
+      "answer": "Article 44"
+    },
+    {
+      "questionNo": 38,
+      "question": "Fundamental Duties (Article 51A) were added by which Amendment?",
+      "options": [
+        "24th Amendment",
+        "42nd Amendment",
+        "44th Amendment",
+        "86th Amendment"
+      ],
+      "answer": "42nd Amendment"
+    },
+    {
+      "questionNo": 39,
+      "question": "The President's power to promulgate Ordinances is found in:",
+      "options": [
+        "Article 72",
+        "Article 123",
+        "Article 213",
+        "Article 356"
+      ],
+      "answer": "Article 123"
+    },
+    {
+      "questionNo": 40,
+      "question": "An Ordinance promulgated by the President must be laid before Parliament and ceases to operate after ____ from the re-assembly of Parliament.",
+      "options": [
+        "6 months",
+        "6 weeks",
+        "30 days",
+        "1 year"
+      ],
+      "answer": "6 weeks"
+    },
+    {
+      "questionNo": 41,
+      "question": "The Governor's power to make Ordinances is provided under:",
+      "options": [
+        "Article 123",
+        "Article 161",
+        "Article 213",
+        "Article 167"
+      ],
+      "answer": "Article 213"
+    },
+    {
+      "questionNo": 42,
+      "question": "Which Schedule contains the Union, State, and Concurrent Lists?",
+      "options": [
+        "Fifth Schedule",
+        "Seventh Schedule",
+        "Ninth Schedule",
+        "Twelfth Schedule"
+      ],
+      "answer": "Seventh Schedule"
+    },
+    {
+      "questionNo": 43,
+      "question": "In case of conflict between a Central law and a State law on a subject in the Concurrent List:",
+      "options": [
+        "State law always prevails",
+        "Central law generally prevails",
+        "The Supreme Court decides which prevails",
+        "Both become void"
+      ],
+      "answer": "Central law generally prevails"
+    },
+    {
+      "questionNo": 44,
+      "question": "Pith and Substance is a rule used for:",
+      "options": [
+        "Interpreting Fundamental Rights",
+        "Resolving conflicts between legislative entries in different lists",
+        "Determining the age of a judge",
+        "Amending the Preamble"
+      ],
+      "answer": "Resolving conflicts between legislative entries in different lists"
+    },
+    {
+      "questionNo": 45,
+      "question": "Parliament can legislate on a matter in the State List in the National Interest if the ____ passes a resolution.",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha (Council of States)",
+        "President",
+        "Supreme Court"
+      ],
+      "answer": "Rajya Sabha (Council of States)"
+    },
+    {
+      "questionNo": 46,
+      "question": "Which writ is issued to produce a person who is wrongfully detained?",
+      "options": [
+        "Mandamus",
+        "Habeas Corpus",
+        "Quo Warranto",
+        "Certiorari"
+      ],
+      "answer": "Habeas Corpus"
+    },
+    {
+      "questionNo": 47,
+      "question": "The writ of \"Mandamus\" literally means:",
+      "options": [
+        "To have the body",
+        "We command",
+        "To be certified",
+        "By what authority"
+      ],
+      "answer": "We command"
+    },
+    {
+      "questionNo": 48,
+      "question": "A writ of \"Quo Warranto\" is used to:",
+      "options": [
+        "Quash a judicial order",
+        "Compel a public official to do their duty",
+        "Enquire into the legality of a claim to a public office",
+        "Stop a lower court from exceeding its jurisdiction"
+      ],
+      "answer": "Enquire into the legality of a claim to a public office"
+    },
+    {
+      "questionNo": 49,
+      "question": "Article 226 gives writ jurisdiction to:",
+      "options": [
+        "The Supreme Court only",
+        "High Courts",
+        "Subordinate Courts",
+        "The President"
+      ],
+      "answer": "High Courts"
+    },
+    {
+      "questionNo": 50,
+      "question": "The \"Doctrine of Basic Structure\" limits the power of Parliament to:",
+      "options": [
+        "Pass ordinary laws",
+        "Amend the Constitution under Article 368",
+        "Dismiss the Cabinet",
+        "Appoint judges"
+      ],
+      "answer": "Amend the Constitution under Article 368"
     }
   ]
-}
+}    
