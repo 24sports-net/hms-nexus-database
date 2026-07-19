@@ -2,40 +2,557 @@
   "subject": "JIGL",
   "chapterNo": 1,
   "chapter": "Meaning and Nature of Jurisprudence",
-  "maxTime": 1200,
+  "maxTime": 3000,
   "questions": [
     {
       "questionNo": 1,
-      "question": "Which of the following best defines Jurisprudence?",
+      "question": "Which Article of the Indian Constitution provides an inclusive definition of \"Law\" and \"Laws in force\"?",
       "options": [
-        "Science of Law",
-        "Science of Economics",
-        "Science of Politics",
-        "Science of Commerce"
+        "Article 12",
+        "Article 13(3)",
+        "Article 14",
+        "Article 21"
       ],
-      "answer": "Science of Law"
+      "answer": "Article 13(3)"
     },
     {
       "questionNo": 2,
-      "question": "Who is regarded as the Father of Analytical School of Jurisprudence?",
+      "question": "Who defined law as \"the art or science of what is equitable and good\"?",
       "options": [
-        "John Austin",
-        "Savigny",
-        "Roscoe Pound",
+        "Cicero",
+        "Ulpian",
+        "Justinian",
         "Salmond"
       ],
-      "answer": "John Austin"
+      "answer": "Ulpian"
     },
     {
       "questionNo": 3,
-      "question": "Jurisprudence is primarily the study of:",
+      "question": "According to Cicero, Law is:",
       "options": [
-        "Law",
-        "Medicine",
-        "Physics",
-        "Chemistry"
+        "The standard of just and unjust",
+        "The highest reason implanted in nature",
+        "A command of the sovereign",
+        "A social fact"
       ],
-      "answer": "Law"
+      "answer": "The highest reason implanted in nature"
+    },
+    {
+      "questionNo": 4,
+      "question": "The word \"Jurisprudence\" is derived from which terms?",
+      "options": [
+        "Jurist and Prudence",
+        "Juris and Prudentia",
+        "Juris and Prudence",
+        "Just and Prudent"
+      ],
+      "answer": "Juris and Prudentia"
+    },
+    {
+      "questionNo": 5,
+      "question": "Who defined Jurisprudence as \"the lawyer's extraversion\"?",
+      "options": [
+        "Prof. G.W. Paton",
+        "Jeremy Bentham",
+        "Prof. Julius Stone",
+        "John Austin"
+      ],
+      "answer": "Prof. Julius Stone"
+    },
+    {
+      "questionNo": 6,
+      "question": "Who is considered the pioneer of analytical jurisprudence in Britain?",
+      "options": [
+        "John Austin",
+        "Jeremy Bentham",
+        "John Salmond",
+        "Hans Kelsen"
+      ],
+      "answer": "Jeremy Bentham"
+    },
+    {
+      "questionNo": 7,
+      "question": "According to Bentham, nature has placed man under the command of which two sovereigns?",
+      "options": [
+        "Law and Order",
+        "Pain and Pleasure",
+        "Right and Wrong",
+        "Sovereign and Subject"
+      ],
+      "answer": "Pain and Pleasure"
+    },
+    {
+      "questionNo": 8,
+      "question": "Bentham distinguished between which two types of jurisprudence?",
+      "options": [
+        "Civil and Criminal",
+        "Positive and Normative",
+        "Expository and Censorial",
+        "Natural and Analytical"
+      ],
+      "answer": "Expository and Censorial"
+    },
+    {
+      "questionNo": 9,
+      "question": "According to Bentham, \"Integrality\" of law means it should be complete in:",
+      "options": [
+        "Expression, connection, and design",
+        "Command, sanction, and duty",
+        "Power, title, and contract",
+        "History, tradition, and ethics"
+      ],
+      "answer": "Expression, connection, and design"
+    },
+    {
+      "questionNo": 10,
+      "question": "Bentham's \"Remedial appendages\" refer to subsidiary laws addressed to:",
+      "options": [
+        "Citizens",
+        "The Sovereign",
+        "Judges",
+        "Legislators"
+      ],
+      "answer": "Judges"
+    },
+    {
+      "questionNo": 11,
+      "question": "John Austin is famously known for which theory of law?",
+      "options": [
+        "Pure Theory",
+        "Social Engineering Theory",
+        "Command Theory",
+        "Volkgeist Theory"
+      ],
+      "answer": "Command Theory"
+    },
+    {
+      "questionNo": 12,
+      "question": "According to Austin, what are the three main features of law?",
+      "options": [
+        "Custom, Precedent, Statute",
+        "Command, Sovereign, Sanction",
+        "Justice, Equity, Good Conscience",
+        "Person, Thing, Object"
+      ],
+      "answer": "Command, Sovereign, Sanction"
+    },
+    {
+      "questionNo": 13,
+      "question": "In Austin's theory, a \"Command\" requires the presence of:",
+      "options": [
+        "A judge and a lawyer",
+        "A commander and the commanded",
+        "A victim and a perpetrator",
+        "A state and a citizen"
+      ],
+      "answer": "A commander and the commanded"
+    },
+    {
+      "questionNo": 14,
+      "question": "Austin defined \"Sovereign\" as an authority that:",
+      "options": [
+        "Is elected by the people",
+        "Receives habitual obedience from the people and obeys no one else",
+        "Follows international law",
+        "Obeys another superior authority"
+      ],
+      "answer": "Receives habitual obedience from the people and obeys no one else"
+    },
+    {
+      "questionNo": 15,
+      "question": "What is a major criticism of Austin's theory?",
+      "options": [
+        "It focuses too much on customs",
+        "It does not account for laws that confer rights and benefits",
+        "It gives too much power to judges",
+        "It ignores the sovereign"
+      ],
+      "answer": "It does not account for laws that confer rights and benefits"
+    },
+    {
+      "questionNo": 16,
+      "question": "John William Salmond claimed the purpose of law was:",
+      "options": [
+        "To enforce commands",
+        "The deliverance of justice",
+        "Social engineering",
+        "To maintain the sovereign"
+      ],
+      "answer": "The deliverance of justice"
+    },
+    {
+      "questionNo": 17,
+      "question": "Salmond defined the \"Administration of Justice\" as the maintenance of right by:",
+      "options": [
+        "Moral persuasion",
+        "Physical force of the state",
+        "Customary practices",
+        "Religious dictates"
+      ],
+      "answer": "Physical force of the state"
+    },
+    {
+      "questionNo": 18,
+      "question": "Which jurist propounded the theory of \"Social Engineering\"?",
+      "options": [
+        "Roscoe Pound",
+        "Hans Kelsen",
+        "H.L.A. Hart",
+        "Von Savigny"
+      ],
+      "answer": "Roscoe Pound"
+    },
+    {
+      "questionNo": 19,
+      "question": "According to Roscoe Pound, \"Interests\" are classified into:",
+      "options": [
+        "Civil, Criminal, and Administrative",
+        "Individual, Public, and Social",
+        "Primary, Secondary, and Tertiary",
+        "Legal, Equitable, and Moral"
+      ],
+      "answer": "Individual, Public, and Social"
+    },
+    {
+      "questionNo": 20,
+      "question": "Under Pound's classification, \"Interest of Personality\" includes:",
+      "options": [
+        "Property and inheritance",
+        "Physical integrity, reputation, and privacy",
+        "Domestic relations",
+        "Freedom of association"
+      ],
+      "answer": "Physical integrity, reputation, and privacy"
+    },
+    {
+      "questionNo": 21,
+      "question": "Hans Kelsen is known for which theory?",
+      "options": [
+        "Command Theory",
+        "Pure Theory of Law",
+        "Theory of Justice",
+        "Historical Theory"
+      ],
+      "answer": "Pure Theory of Law"
+    },
+    {
+      "questionNo": 22,
+      "question": "Kelsen described law as a:",
+      "options": [
+        "Natural science",
+        "Social science",
+        "Normative science",
+        "Physical science"
+      ],
+      "answer": "Normative science"
+    },
+    {
+      "questionNo": 23,
+      "question": "The highest possible norm in Kelsen's structure is the:",
+      "options": [
+        "Constitution",
+        "Superior Norm",
+        "Grundnorm",
+        "Subordinate Norm"
+      ],
+      "answer": "Grundnorm"
+    },
+    {
+      "questionNo": 24,
+      "question": "In the context of Kelsen's theory in India, what is considered the \"Grundnorm\"?",
+      "options": [
+        "The Parliament",
+        "The President",
+        "The Constitution",
+        "The Supreme Court"
+      ],
+      "answer": "The Constitution"
+    },
+    {
+      "questionNo": 25,
+      "question": "H.L.A. Hart categorized \"Positivism\" as the separation of:",
+      "options": [
+        "State and Church",
+        "Law as it \"is\" from law as it \"ought\" to be",
+        "Customs and Statutes",
+        "Command and Sanction"
+      ],
+      "answer": "Law as it \"is\" from law as it \"ought\" to be"
+    },
+    {
+      "questionNo": 26,
+      "question": "Which school of law says certain rights are inherent by virtue of human nature?",
+      "options": [
+        "Analytical School",
+        "Historical School",
+        "Natural School",
+        "Sociological School"
+      ],
+      "answer": "Natural School"
+    },
+    {
+      "questionNo": 27,
+      "question": "Thomas Aquinas categorized law into how many categories?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": "Four"
+    },
+    {
+      "questionNo": 28,
+      "question": "Who is the major exponent of the Historical School of Law?",
+      "options": [
+        "John Austin",
+        "Von Savigny",
+        "Roscoe Pound",
+        "Hans Kelsen"
+      ],
+      "answer": "Von Savigny"
+    },
+    {
+      "questionNo": 29,
+      "question": "The term \"Volkgeist\" refers to:",
+      "options": [
+        "The command of the king",
+        "Common consciousness of the people",
+        "Scientific study of law",
+        "International norms"
+      ],
+      "answer": "Common consciousness of the people"
+    },
+    {
+      "questionNo": 30,
+      "question": "According to Von Savigny, law is:",
+      "options": [
+        "Made by the legislature",
+        "Found and not made",
+        "A divine revelation",
+        "A set of judicial decisions"
+      ],
+      "answer": "Found and not made"
+    },
+    {
+      "questionNo": 31,
+      "question": "The Philosophical/Ethical School believes law must have an element of:",
+      "options": [
+        "Physical force",
+        "Historical tradition",
+        "Ethical value",
+        "Economic utility"
+      ],
+      "answer": "Ethical value"
+    },
+    {
+      "questionNo": 32,
+      "question": "Who defined law as \"essentially and exclusively a social fact\"?",
+      "options": [
+        "Ihering",
+        "Duguit",
+        "Hegel",
+        "Holmes"
+      ],
+      "answer": "Duguit"
+    },
+    {
+      "questionNo": 33,
+      "question": "The Realist School defines law in terms of:",
+      "options": [
+        "The will of God",
+        "Judicial process and court enforcement",
+        "Ancient customs",
+        "Legislative drafting"
+      ],
+      "answer": "Judicial process and court enforcement"
+    },
+    {
+      "questionNo": 34,
+      "question": "Who stated that \"Law is a statement of the circumstances in which public force will be brought to bear upon through courts\"?",
+      "options": [
+        "Cardozo",
+        "Holmes",
+        "Henry Maine",
+        "Hugo Grotius"
+      ],
+      "answer": "Holmes"
+    },
+    {
+      "questionNo": 35,
+      "question": "A \"Mandatory Law\" is one that calls for:",
+      "options": [
+        "Negative conduct",
+        "An affirmative act (e.g., paying taxes)",
+        "Optional behavior",
+        "Religious compliance"
+      ],
+      "answer": "An affirmative act (e.g., paying taxes)"
+    },
+    {
+      "questionNo": 36,
+      "question": "What are the two main heads of sources for modern Indian law?",
+      "options": [
+        "Civil and Criminal",
+        "Primary and Secondary",
+        "Written and Unwritten",
+        "Ancient and Modern"
+      ],
+      "answer": "Primary and Secondary"
+    },
+    {
+      "questionNo": 37,
+      "question": "Which is the most ancient of all sources of law?",
+      "options": [
+        "Legislation",
+        "Precedent",
+        "Custom",
+        "Personal Law"
+      ],
+      "answer": "Custom"
+    },
+    {
+      "questionNo": 38,
+      "question": "Positive morality refers to:",
+      "options": [
+        "Legal customs",
+        "Customs without sanction (non-obligatory)",
+        "Conventional customs",
+        "Statutes"
+      ],
+      "answer": "Customs without sanction (non-obligatory)"
+    },
+    {
+      "questionNo": 39,
+      "question": "Conventional customs are also known as:",
+      "options": [
+        "Local customs",
+        "General customs",
+        "Usages",
+        "Statutes"
+      ],
+      "answer": "Usages"
+    },
+    {
+      "questionNo": 40,
+      "question": "To be valid, a custom must be \"Immemorial,\" meaning it must be:",
+      "options": [
+        "Written in a statute",
+        "Ancient",
+        "Decided by a judge",
+        "Approved by the sovereign"
+      ],
+      "answer": "Ancient"
+    },
+    {
+      "questionNo": 41,
+      "question": "The doctrine of \"Stare Decisis\" means:",
+      "options": [
+        "To change the law",
+        "Adhere to the decision and do not unsettle established things",
+        "The reason for the decision",
+        "Something said by the way"
+      ],
+      "answer": "Adhere to the decision and do not unsettle established things"
+    },
+    {
+      "questionNo": 42,
+      "question": "The underlying principle of a judicial decision that is authoritative is called:",
+      "options": [
+        "Obiter Dictum",
+        "Stare Decisis",
+        "Ratio Decidendi",
+        "Res Judicata"
+      ],
+      "answer": "Ratio Decidendi"
+    },
+    {
+      "questionNo": 43,
+      "question": "Obiter Dicta literally means:",
+      "options": [
+        "The reason for the decision",
+        "Said by the way",
+        "To stand by things decided",
+        "A binding rule"
+      ],
+      "answer": "Said by the way"
+    },
+    {
+      "questionNo": 44,
+      "question": "Which Article of the Constitution makes Supreme Court decisions binding on all courts in India?",
+      "options": [
+        "Article 13",
+        "Article 32",
+        "Article 141",
+        "Article 226"
+      ],
+      "answer": "Article 141"
+    },
+    {
+      "questionNo": 45,
+      "question": "A precedent that a judge is not obliged to follow but will take into consideration is a:",
+      "options": [
+        "Authoritative precedent",
+        "Declaratory precedent",
+        "Persuasive precedent",
+        "Original precedent"
+      ],
+      "answer": "Persuasive precedent"
+    },
+    {
+      "questionNo": 46,
+      "question": "Jus scriptum refers to:",
+      "options": [
+        "Unwritten law",
+        "Customary law",
+        "Written law (Legislation)",
+        "Natural law"
+      ],
+      "answer": "Written law (Legislation)"
+    },
+    {
+      "questionNo": 47,
+      "question": "Subordinate legislation made by municipal bodies is known as:",
+      "options": [
+        "Supreme legislation",
+        "Bye-laws",
+        "Personal law",
+        "Precedents"
+      ],
+      "answer": "Bye-laws"
+    },
+    {
+      "questionNo": 48,
+      "question": "The primary sources of Hindu Law include:",
+      "options": [
+        "The Quran and Hadis",
+        "The Shruti and Smritis",
+        "The Common Law",
+        "Law Merchant"
+      ],
+      "answer": "The Shruti and Smritis"
+    },
+    {
+      "questionNo": 49,
+      "question": "Justice, Equity and Good Conscience was introduced to India by:",
+      "options": [
+        "The Constitution of India",
+        "Impey's Regulations of 1781",
+        "The Indian Contract Act",
+        "The Supreme Court"
+      ],
+      "answer": "Impey's Regulations of 1781"
+    },
+    {
+      "questionNo": 50,
+      "question": "The main source of Indian Mercantile Law is:",
+      "options": [
+        "American Law",
+        "English Mercantile Law",
+        "French Civil Code",
+        "Ancient Customs"
+      ],
+      "answer": "English Mercantile Law"
     }
   ]
 }
