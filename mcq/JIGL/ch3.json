@@ -1,0 +1,558 @@
+{
+  "subject": "JIGL",
+  "chapterNo": 2,
+  "chapter": "Constitution of India",
+  "maxTime": 3000,
+  "questions": [
+    {
+      "questionNo": 1,
+      "question": "When did the Constitution of India come into force?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "1 January 1950"
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "questionNo": 2,
+      "question": "When was the Constitution of India adopted?",
+      "options": [
+        "26 November 1949",
+        "26 January 1950",
+        "15 August 1947",
+        "9 December 1946"
+      ],
+      "answer": "26 November 1949"
+    },
+    {
+      "questionNo": 3,
+      "question": "Who is known as the Chief Architect of the Indian Constitution?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "questionNo": 4,
+      "question": "The Constitution of India is the:",
+      "options": [
+        "Supreme Law of the Land",
+        "Ordinary Law",
+        "State Law",
+        "International Law"
+      ],
+      "answer": "Supreme Law of the Land"
+    },
+    {
+      "questionNo": 5,
+      "question": "The Constitution originally contained how many Articles?",
+      "options": [
+        "395",
+        "448",
+        "300",
+        "250"
+      ],
+      "answer": "395"
+    },
+    {
+      "questionNo": 6,
+      "question": "The Constitution originally had how many Schedules?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "8"
+    },
+    {
+      "questionNo": 7,
+      "question": "At present, the Constitution contains how many Schedules?",
+      "options": [
+        "12",
+        "10",
+        "8",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "questionNo": 8,
+      "question": "Which Part of the Constitution deals with Fundamental Rights?",
+      "options": [
+        "Part III",
+        "Part II",
+        "Part IV",
+        "Part V"
+      ],
+      "answer": "Part III"
+    },
+    {
+      "questionNo": 9,
+      "question": "Which Part deals with Directive Principles of State Policy?",
+      "options": [
+        "Part IV",
+        "Part III",
+        "Part IVA",
+        "Part V"
+      ],
+      "answer": "Part IV"
+    },
+    {
+      "questionNo": 10,
+      "question": "Fundamental Duties are contained in:",
+      "options": [
+        "Part IVA",
+        "Part III",
+        "Part IV",
+        "Part V"
+      ],
+      "answer": "Part IVA"
+    },
+    {
+      "questionNo": 11,
+      "question": "How many Fundamental Rights are currently guaranteed?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "answer": "6"
+    },
+    {
+      "questionNo": 12,
+      "question": "The Right to Constitutional Remedies is provided under:",
+      "options": [
+        "Article 32",
+        "Article 14",
+        "Article 21",
+        "Article 19"
+      ],
+      "answer": "Article 32"
+    },
+    {
+      "questionNo": 13,
+      "question": "Who called Article 32 the 'Heart and Soul' of the Constitution?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "questionNo": 14,
+      "question": "Which Article guarantees Equality before Law?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 25"
+      ],
+      "answer": "Article 14"
+    },
+    {
+      "questionNo": 15,
+      "question": "Which Article guarantees Freedom of Speech and Expression?",
+      "options": [
+        "Article 19(1)(a)",
+        "Article 21",
+        "Article 14",
+        "Article 32"
+      ],
+      "answer": "Article 19(1)(a)"
+    },
+    {
+      "questionNo": 16,
+      "question": "Which Article protects Life and Personal Liberty?",
+      "options": [
+        "Article 21",
+        "Article 20",
+        "Article 18",
+        "Article 25"
+      ],
+      "answer": "Article 21"
+    },
+    {
+      "questionNo": 17,
+      "question": "The Right to Education is guaranteed under:",
+      "options": [
+        "Article 21A",
+        "Article 21",
+        "Article 19",
+        "Article 30"
+      ],
+      "answer": "Article 21A"
+    },
+    {
+      "questionNo": 18,
+      "question": "Which Article abolishes Untouchability?",
+      "options": [
+        "Article 17",
+        "Article 16",
+        "Article 15",
+        "Article 18"
+      ],
+      "answer": "Article 17"
+    },
+    {
+      "questionNo": 19,
+      "question": "Which Article abolishes Titles?",
+      "options": [
+        "Article 18",
+        "Article 17",
+        "Article 15",
+        "Article 16"
+      ],
+      "answer": "Article 18"
+    },
+    {
+      "questionNo": 20,
+      "question": "The Directive Principles are borrowed from the Constitution of:",
+      "options": [
+        "Ireland",
+        "USA",
+        "Canada",
+        "Australia"
+      ],
+      "answer": "Ireland"
+    },
+    {
+      "questionNo": 21,
+      "question": "Fundamental Rights are borrowed from the Constitution of:",
+      "options": [
+        "USA",
+        "UK",
+        "Ireland",
+        "France"
+      ],
+      "answer": "USA"
+    },
+    {
+      "questionNo": 22,
+      "question": "The Parliamentary system in India is borrowed from:",
+      "options": [
+        "United Kingdom",
+        "USA",
+        "Canada",
+        "France"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "questionNo": 23,
+      "question": "India is described as a:",
+      "options": [
+        "Union of States",
+        "Federation of Kingdoms",
+        "Confederation",
+        "Republic of Provinces"
+      ],
+      "answer": "Union of States"
+    },
+    {
+      "questionNo": 24,
+      "question": "The Preamble begins with:",
+      "options": [
+        "We, the People of India",
+        "Government of India",
+        "People of Bharat",
+        "Citizens of India"
+      ],
+      "answer": "We, the People of India"
+    },
+    {
+      "questionNo": 25,
+      "question": "Which words were added to the Preamble by the 42nd Amendment?",
+      "options": [
+        "Socialist, Secular and Integrity",
+        "Republic and Justice",
+        "Equality and Liberty",
+        "Federal and Democratic"
+      ],
+      "answer": "Socialist, Secular and Integrity"
+    },
+    {
+      "questionNo": 26,
+      "question": "India is a:",
+      "options": [
+        "Sovereign Socialist Secular Democratic Republic",
+        "Federal Kingdom",
+        "Unitary State",
+        "Presidential Republic"
+      ],
+      "answer": "Sovereign Socialist Secular Democratic Republic"
+    },
+    {
+      "questionNo": 27,
+      "question": "Who is the Constitutional Head of India?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Justice of India",
+        "Vice President"
+      ],
+      "answer": "President"
+    },
+    {
+      "questionNo": 28,
+      "question": "Executive power of the Union is vested in:",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Parliament",
+        "Supreme Court"
+      ],
+      "answer": "President"
+    },
+    {
+      "questionNo": 29,
+      "question": "The Council of Ministers is collectively responsible to:",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "President",
+        "Supreme Court"
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "questionNo": 30,
+      "question": "The Lower House of Parliament is:",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Legislative Assembly",
+        "Legislative Council"
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "questionNo": 31,
+      "question": "The Upper House of Parliament is:",
+      "options": [
+        "Rajya Sabha",
+        "Lok Sabha",
+        "Vidhan Sabha",
+        "Cabinet"
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "questionNo": 32,
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": [
+        "Vice President",
+        "President",
+        "Prime Minister",
+        "Speaker"
+      ],
+      "answer": "Vice President"
+    },
+    {
+      "questionNo": 33,
+      "question": "Who presides over the Lok Sabha?",
+      "options": [
+        "Speaker",
+        "Deputy Chairman",
+        "President",
+        "Vice President"
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "questionNo": 34,
+      "question": "The Supreme Court is established under:",
+      "options": [
+        "Article 124",
+        "Article 32",
+        "Article 226",
+        "Article 368"
+      ],
+      "answer": "Article 124"
+    },
+    {
+      "questionNo": 35,
+      "question": "Which Court is the highest judicial authority in India?",
+      "options": [
+        "Supreme Court",
+        "High Court",
+        "District Court",
+        "Constitution Bench"
+      ],
+      "answer": "Supreme Court"
+    },
+    {
+      "questionNo": 36,
+      "question": "High Courts exercise writ jurisdiction under:",
+      "options": [
+        "Article 226",
+        "Article 32",
+        "Article 124",
+        "Article 368"
+      ],
+      "answer": "Article 226"
+    },
+    {
+      "questionNo": 37,
+      "question": "Emergency provisions are contained in:",
+      "options": [
+        "Part XVIII",
+        "Part XVII",
+        "Part XVI",
+        "Part XIX"
+      ],
+      "answer": "Part XVIII"
+    },
+    {
+      "questionNo": 38,
+      "question": "National Emergency is provided under:",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 368"
+      ],
+      "answer": "Article 352"
+    },
+    {
+      "questionNo": 39,
+      "question": "President's Rule is imposed under:",
+      "options": [
+        "Article 356",
+        "Article 352",
+        "Article 360",
+        "Article 324"
+      ],
+      "answer": "Article 356"
+    },
+    {
+      "questionNo": 40,
+      "question": "Financial Emergency is provided under:",
+      "options": [
+        "Article 360",
+        "Article 356",
+        "Article 352",
+        "Article 324"
+      ],
+      "answer": "Article 360"
+    },
+    {
+      "questionNo": 41,
+      "question": "The Constitution can be amended under:",
+      "options": [
+        "Article 368",
+        "Article 352",
+        "Article 32",
+        "Article 226"
+      ],
+      "answer": "Article 368"
+    },
+    {
+      "questionNo": 42,
+      "question": "Who conducts elections in India?",
+      "options": [
+        "Election Commission of India",
+        "Supreme Court",
+        "President",
+        "Parliament"
+      ],
+      "answer": "Election Commission of India"
+    },
+    {
+      "questionNo": 43,
+      "question": "The Election Commission is provided under:",
+      "options": [
+        "Article 324",
+        "Article 326",
+        "Article 356",
+        "Article 368"
+      ],
+      "answer": "Article 324"
+    },
+    {
+      "questionNo": 44,
+      "question": "Universal Adult Suffrage is provided under:",
+      "options": [
+        "Article 326",
+        "Article 324",
+        "Article 325",
+        "Article 327"
+      ],
+      "answer": "Article 326"
+    },
+    {
+      "questionNo": 45,
+      "question": "The Constitution of India is:",
+      "options": [
+        "Partly Rigid and Partly Flexible",
+        "Completely Rigid",
+        "Completely Flexible",
+        "Unwritten"
+      ],
+      "answer": "Partly Rigid and Partly Flexible"
+    },
+    {
+      "questionNo": 46,
+      "question": "Which feature is NOT found in the Indian Constitution?",
+      "options": [
+        "Dual Citizenship",
+        "Fundamental Rights",
+        "Judicial Review",
+        "Parliamentary Government"
+      ],
+      "answer": "Dual Citizenship"
+    },
+    {
+      "questionNo": 47,
+      "question": "Judicial Review in India is exercised mainly by:",
+      "options": [
+        "Supreme Court and High Courts",
+        "President",
+        "Parliament",
+        "Election Commission"
+      ],
+      "answer": "Supreme Court and High Courts"
+    },
+    {
+      "questionNo": 48,
+      "question": "The concept of Single Citizenship is borrowed from:",
+      "options": [
+        "United Kingdom",
+        "USA",
+        "Canada",
+        "Australia"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "questionNo": 49,
+      "question": "The Constitution declares India to be a Democratic Republic in the:",
+      "options": [
+        "Preamble",
+        "Part III",
+        "Part IV",
+        "Schedule I"
+      ],
+      "answer": "Preamble"
+    },
+    {
+      "questionNo": 50,
+      "question": "The Indian Constitution is regarded as the longest written Constitution in the world because it is:",
+      "options": [
+        "Detailed and Comprehensive",
+        "Based only on Customs",
+        "Made by Parliament",
+        "Applicable only to the Union Government"
+      ],
+      "answer": "Detailed and Comprehensive"
+    }
+  ]
+}
